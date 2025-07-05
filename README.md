@@ -23,7 +23,7 @@
 #### 🔗 [Client Landing Page](https://clientlanding.netlify.app)
 > Built using HTML/CSS. Pixel-perfect and fully responsive.
 
-#### 🔗 [To-Do App in React](https://simpletoodoo.netlify.com)
+#### 🔗 [To-Do App](https://simpletoodoo.netlify.app)
 > Minimalist React app with dark mode toggle and persistent localStorage
 
 ---
