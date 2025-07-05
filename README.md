@@ -17,10 +17,10 @@
 
 ### 🌟 Featured Projects
 
-#### 🔗 [Personal Portfolio Website](https://williammcilleron.netlify.com)
+#### 🔗 [Personal Portfolio Website](https://williammcilleron.netlify.app)
 > Custom-built HTML/CSS and JS portfolio with responsive design and smooth interactive UI
 
-#### 🔗 [Client Landing Page](https://)
+#### 🔗 [Client Landing Page](https://clientlanding.netlify.app)
 > Built using HTML/CSS. Pixel-perfect and fully responsive.
 
 #### 🔗 [To-Do App in React](https://simpletoodoo.netlify.com)
