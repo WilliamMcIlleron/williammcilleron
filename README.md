@@ -19,6 +19,12 @@
 
 #### 🔗 [Personal Portfolio Website](https://williammcilleron.netlify.app)
 > Custom-built HTML/CSS and JS portfolio with responsive design and smooth interactive UI
+> 
+#### 🔗 [Kivar Shots](https://kivarshots.netlify.app)
+> Custom-built HTML/CSS and JS website for a local photographer with responsive design and form handling.
+
+#### 🔗 [ShotsByZondo](https://shotsbyzondo.netlify.app)
+> Custom-built HTML/Tailwind CSS and JS website for another local photographer with responsive design and form handling.
 
 #### 🔗 [Client Landing Page](https://clientlanding.netlify.app)
 > Built using HTML/CSS. Pixel-perfect and fully responsive.
@@ -56,7 +62,7 @@
 
 <!---- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)--->
 <!---- 📸 [Instagram](https://instagram.com/yourhandle)--->
-- ✉️ [Email](mailto:your@email.com)
+- ✉️ [Email](mailto:williamjonahmci@icloud.com)
 
 ---
 
