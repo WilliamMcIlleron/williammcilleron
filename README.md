@@ -11,7 +11,7 @@
 - 🧗 I'm a climber who writes code (or a coder who climbs walls?)
 - 🎓 Currently learning WordPress development and full-stack fundamentals
 - 🔭 I’m working on building a responsive freelance portfolio site
-- 📫 Reach me at [williamjonahmci@icloud.com](mailto:williamjonahmci@icloud.com)
+- 📫 Reach me at [williamjonahmci@icloud.com](mailto:williamjonahmci@icloud.com) or on instagram @williamwebdev
 
 ---
 
