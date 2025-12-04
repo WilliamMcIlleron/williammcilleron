@@ -59,9 +59,8 @@
 ---
 
 ### 📬 Connect With Me
-
-<!---- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)--->
-<!---- 📸 [Instagram](https://instagram.com/yourhandle)--->
+- 💼 [LinkedIn](https://linkedin.com/in/william-mcilleron)
+- 📸 [Instagram](https://instagram.com/illiamwebdev)
 - ✉️ [Email](mailto:williamjonahmci@icloud.com)
 
 ---
