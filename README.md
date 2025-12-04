@@ -51,7 +51,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williammcilleron&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=williammcilleron&show_icons=true&theme=tokyonight" alt="GitHub stats" />-->
   <br/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=williammcilleron&theme=tokyonight" />
 </p>
