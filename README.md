@@ -20,6 +20,9 @@
 #### 🔗 [Personal Portfolio Website](https://williammcilleron.netlify.app)
 > Custom-built HTML/CSS and JS portfolio with responsive design and smooth interactive UI
 > 
+#### 🔗 [Kohi by Ifuku](https://www.kohibyifuku.co.za)
+> Beautiful HTML/CSS and JS website made for a local cafe with cozy design and smooth UI
+
 #### 🔗 [Kivar Shots](https://kivarshots.netlify.app)
 > Custom-built HTML/CSS and JS website for a local photographer with responsive design and form handling.
 
