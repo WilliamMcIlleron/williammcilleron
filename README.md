@@ -27,14 +27,25 @@ and the quote.
 
 ---
 
-### Client work
+### Client work and open templates
 
 **☕ [Kohi by Ifuku](https://www.kohibyifuku.co.za)** — site for a local coffee shop.
 Menu, hours and directions, tuned to load instantly on a phone in the queue.
 `HTML · CSS · JS`
 
-**✍️ [Dev Blog](https://williamsdevblog.netlify.app)** — a blog layout built around
-long-form reading: measured line lengths, real typographic hierarchy, no infinite scroll.
+**✍️ [Dev Blog template](https://williammcilleron.github.io/dev-blog)** — a blog layout built
+around long-form reading: measured line lengths, real typographic hierarchy, no infinite
+scroll. Free to use, [code here](https://github.com/WilliamMcIlleron/dev-blog).
+`HTML · CSS · JS`
+
+**📸 [Snapfolio](https://williammcilleron.github.io/snapfolio/)** — a single-page portfolio
+template for photographers. Free to use.
+`HTML · CSS · JS`
+
+**✏️ [Etch A Sketch](https://williammcilleron.github.io/etch-a-sketch/)** — a grid you
+colour in by dragging across it. Each square takes a random colour on the first pass and
+deepens every time you go back over it. Rainbow, single-colour and eraser brushes, a canvas
+that resizes live from 4 to 100 squares a side, and it works on touch.
 `HTML · CSS · JS`
 
 ---
