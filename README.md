@@ -13,7 +13,7 @@ I build things, launch them, and then run them — which means I do the design, 
 code, the deploys, and the support emails. Turns out that last part changes how you
 build the first part.
 
-**🔦 [Lumen](https://lumen-10d.pages.dev)** — a site system for wedding photographers.
+**🔦 [Lumen](https://lumendemo.pages.dev)** — a site system for wedding photographers.
 Every client site comes off one codebase and a single config file, including a ranking
 page per town generated from an array. A new client goes live in an afternoon instead of
 a fortnight. Sold as a build plus a monthly care plan, because one-off projects are a
