@@ -20,10 +20,13 @@ a fortnight. Sold as a build plus a monthly care plan, because one-off projects 
 treadmill.
 `Astro · Tailwind · Cloudflare Pages`
 
-**📄 Faircopy** *(in development.)* - Paste a messy client brief, get back a proposal you
-can edit, save and export. Built because I kept losing work in the gap between the call
-and the quote.
+**📄 [Faircopy](https://github.com/WilliamMcIlleron/faircopy)** - paste a messy client
+brief, get back a proposal you can edit, save and export. Built because I kept losing work
+in the gap between the call and the quote. Public, with a fixture demo and CI. I stopped
+selling it once the market research came back, and kept it as the clearest example of how
+I build.
 `Next.js · Supabase`
+
 
 ---
 
