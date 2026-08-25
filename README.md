@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm William 👋</h1>
-<h3 align="center">I build small web products and run the ones that work</h3>
+<h3 align="center">I build small web products and then run them</h3>
 
 <p align="center">
   Johannesburg · <a href="https://williammcilleron.netlify.app">williammcilleron.netlify.app</a>
@@ -7,49 +7,73 @@
 
 ---
 
-### What I'm actually doing
+### What I would show you first
 
-I build things, launch them, and then run them - which means I do the design, the
-code, the deploys, and the support emails. Turns out that last part changes how you
-build the first part.
+**📄 [Faircopy](https://faircopy-phi.vercel.app/demo)** - paste a client's messy brief and get
+back a proposal you can edit, save and export. Handed a brief with no budget, no scope and no
+deadline, it opens with the three questions it needs answered and marks itself provisional,
+rather than inventing a number. Billing, quotas, webhooks, credit grants and PDF export all
+work. The demo needs no account and no API key: it runs on fixtures and touches no database,
+which is why it is never the part that is down.
 
-**🔦 [Lumen](https://lumendemo.pages.dev)** - a site system for wedding photographers.
-Every client site comes off one codebase and a single config file, including a ranking
-page per town generated from an array. A new client goes live in an afternoon instead of
-a fortnight. Sold as a build plus a monthly care plan, because one-off projects are a
-treadmill.
-`Astro · Tailwind · Cloudflare Pages`
+I finished it and then stopped selling it. Proposal tooling for freelancers is a crowded market
+where customers churn the moment they land the contract that made them sign up. Nothing failed
+technically. It is here as work, not as a product.
 
-**📄 [Faircopy](https://github.com/WilliamMcIlleron/faircopy)** - paste a messy client
-brief, get back a proposal you can edit, save and export. Built because I kept losing work
-in the gap between the call and the quote. Public, with a fixture demo and CI. I stopped
-selling it once the market research came back, and kept it as the clearest example of how
-I build.
-`Next.js · Supabase`
+`Next.js 15 · Supabase · TypeScript · Anthropic API` · [code](https://github.com/WilliamMcIlleron/faircopy)
 
+**🪐 [Syzygy](https://williammcilleron.github.io/syzygy/)** - a small planet you roll a marble
+around, in the browser. Gravity points at the centre of the planet instead of downwards, so
+there is no floor and no edge: roll in one direction for about fourteen seconds and you arrive
+back where you started. Four monuments stand unlit on the surface. Light all four and dawn
+breaks over the whole planet.
+
+25 modules, roughly 7,000 lines, and one image file in the entire repository. No build step, no
+package.json and no game engine. The terrain, the sky, the monuments, every piece of in-world
+type and every sound are generated at runtime. Collision is hand-rolled sphere-against-sphere
+and sphere-against-capsule, and the ground is an analytic sum of sines, so it can be sampled
+without touching the mesh.
+
+`Three.js r169 · Web Audio · Supabase` · [code](https://github.com/WilliamMcIlleron/syzygy)
 
 ---
 
-### Client work and open templates
+### Live and looked after
 
-**☕ [Kohi by Ifuku](https://www.kohibyifuku.co.za)** - site for a local coffee shop.
-Menu, hours and directions, tuned to load instantly on a phone in the queue.
+**☕ [Kohi by Ifuku](https://www.kohibyifuku.co.za)** - a coffee shop, micro-gallery and jazz
+kissa at 44 Stanley in Johannesburg. Menu, hours and directions, built to load instantly on a
+phone in the queue. Still mine to maintain.
 `HTML · CSS · JS`
 
-**✍️ [Dev Blog template](https://williammcilleron.github.io/dev-blog)** - a blog layout built
-around long-form reading: measured line lengths, real typographic hierarchy, no infinite
-scroll. Free to use, [code here](https://github.com/WilliamMcIlleron/dev-blog).
-`HTML · CSS · JS`
+---
 
-**📸 [Snapfolio](https://williammcilleron.github.io/snapfolio/)** - a single-page portfolio
-template for photographers. Free to use.
-`HTML · CSS · JS`
+### Built, measured, stopped
 
-**✏️ [Etch A Sketch](https://williammcilleron.github.io/etch-a-sketch/)** - a grid you
-colour in by dragging across it. Each square takes a random colour on the first pass and
-deepens every time you go back over it. Rainbow, single-colour and eraser brushes, a canvas
-that resizes live from 4 to 100 squares a side, and it works on touch.
-`HTML · CSS · JS`
+**🔦 Lumen** - a site system for wedding photographers. One codebase, one config file per
+client, and a location page per town generated from an array, so a new client site went live in
+an afternoon instead of a fortnight. 34 approaches to photographers, nine to venues, no closes.
+The build was never the problem. I was selling to people spending their own money on something
+they had already decided they could do without, which is the same mistake I had made twice
+before. [The write-up](https://williammcilleron.netlify.app/writing/i-filtered-for-bad-websites/).
+`Astro · Tailwind · Cloudflare Pages`
+
+---
+
+### Open templates
+
+Free to use, each with a live demo.
+
+**✍️ [Dev Blog](https://williammcilleron.github.io/dev-blog)** - a blog layout built around a
+measured 66-character reading column. No infinite scroll.
+[code](https://github.com/WilliamMcIlleron/dev-blog)
+
+**📸 [Snapfolio](https://williammcilleron.github.io/snapfolio/)** - a single-page portfolio for
+portrait and creative photographers. Near-white, black type, colour only in the photographs.
+[code](https://github.com/WilliamMcIlleron/snapfolio)
+
+**🧘 [ZenSlide](https://williammcilleron.github.io/zenslide/)** - a landing page for yoga and
+wellness studios. Warm stone and sage.
+[code](https://github.com/WilliamMcIlleron/zenslide)
 
 ---
 
@@ -59,6 +83,7 @@ that resizes live from 4 to 100 squares a side, and it works on touch.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -70,24 +95,13 @@ that resizes live from 4 to 100 squares a side, and it works on touch.
 
 ### 🧗 Off the keyboard
 
-I climb. It's the only hobby I've found that punishes rushing as reliably as
-production does - you can force a move and get away with it exactly once.
-
-Currently working out how to sell something recurring to people who've only ever
-bought things once. Harder than the code.
+I climb. It is the only hobby I have found that punishes rushing as reliably as production
+does: you can force a move and get away with it exactly once.
 
 ---
 
 ### 📬 Say hello
 
 - ✉️ [williamjonahmci@gmail.com](mailto:williamjonahmci@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/william-mcilleron)
+- 💼 [LinkedIn](https://linkedin.com/in/williammcilleron)
 - 📸 [Instagram](https://instagram.com/williamwebdev)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=williammcilleron&theme=tokyonight" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <i>"Code like you climb - one clean move at a time."</i>
-</p>
