@@ -51,7 +51,7 @@ phone in the queue. Still mine to maintain.
 
 **🔦 Lumen** - a site system for wedding photographers. One codebase, one config file per
 client, and a location page per town generated from an array, so a new client site went live in
-an afternoon instead of a fortnight. 80ish approaches to photographers, nine to venues, no closes.
+an afternoon instead of a fortnight. Roughly 90 approaches to photographers, nine to venues, no closes.
 The build was never the problem. I was selling to people spending their own money on something
 they had already decided they could do without, which is the same mistake I had made twice
 before. [The write-up](https://williammcilleron.netlify.app/writing/i-filtered-for-bad-websites/).
