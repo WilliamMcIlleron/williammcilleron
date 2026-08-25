@@ -25,8 +25,8 @@ technically. It is here as work, not as a product.
 **🪐 [Syzygy](https://williammcilleron.github.io/syzygy/)** - a small planet you roll a marble
 around, in the browser. Gravity points at the centre of the planet instead of downwards, so
 there is no floor and no edge: roll in one direction for about fourteen seconds and you arrive
-back where you started. Four monuments stand unlit on the surface. Light all four and dawn
-breaks over the whole planet.
+back where you started. Five monuments stand unlit on the surface: four projects and one that
+is how you reach me. Light all five and dawn breaks over the whole planet.
 
 25 modules, roughly 7,000 lines, and one image file in the entire repository. No build step, no
 package.json and no game engine. The terrain, the sky, the monuments, every piece of in-world
