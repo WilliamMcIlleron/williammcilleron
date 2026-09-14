@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm William</h1>
-<h3 align="center">I build web products, end to end</h3>
+<h3 align="center">I build the systems behind the things you use — and keep them running</h3>
 
 <p align="center">
   Johannesburg · <a href="https://williammcilleron.netlify.app">williammcilleron.netlify.app</a>
