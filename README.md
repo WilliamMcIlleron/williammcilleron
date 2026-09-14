@@ -9,7 +9,7 @@
 
 ### What I would show you first
 
-**🏊 [MVS Global Pools](https://mvsglobalpools.co.za)** - a pool company in Greenstone,
+**[MVS Global Pools](https://mvsglobalpools.co.za)** - a pool company in Greenstone,
 Johannesburg, profiled by a national outlet in February 2026. Anyone who read the profile and
 went looking found a Facebook page, because there was no website and no domain. That gap was
 the whole pitch. One page, built around 22 photographs they supplied, with no price list since
@@ -18,7 +18,7 @@ paying client on a monthly, so the hosting, DNS, email routing and any changes a
 
 `HTML · CSS · JS · Cloudflare Pages`
 
-**🏘️ [Silver Lakes Marketplace](https://silverlakesmarketplace.co.za)** - a resident-to-resident
+**[Silver Lakes Marketplace](https://silverlakesmarketplace.co.za)** - a resident-to-resident
 marketplace for a Johannesburg gated estate, built with a co-founder. Auth, listings, offers,
 live in-app messaging, wishlists, seller ratings, and an admin panel for category moderation,
 reporting and takedown. Card payments run on Paystack subaccounts with a server-side split: an
@@ -29,7 +29,7 @@ owner. Live since 29 August 2026.
 
 `Supabase · Postgres RLS · Paystack · Cloudflare Pages`
 
-**📄 [Faircopy](https://faircopy-phi.vercel.app/demo)** - paste a client's messy brief and get
+**[Faircopy](https://faircopy-phi.vercel.app/demo)** - paste a client's messy brief and get
 back a proposal you can edit, save and export. Handed a brief with no budget, no scope and no
 deadline, it opens with the three questions it needs answered and marks itself provisional,
 rather than inventing a number. Billing, quotas, webhooks, credit grants and PDF export all
@@ -42,7 +42,7 @@ technically. It is here as work, not as a product.
 
 `Next.js 15 · Supabase · TypeScript · Anthropic API` · [code](https://github.com/WilliamMcIlleron/faircopy)
 
-**🪐 [Syzygy](https://williammcilleron.github.io/syzygy/)** - a small planet you roll a marble
+**[Syzygy](https://williammcilleron.github.io/syzygy/)** - a small planet you roll a marble
 around, in the browser. Gravity points at the centre of the planet instead of downwards, so
 there is no floor and no edge: roll in one direction for about fourteen seconds and you arrive
 back where you started. Five monuments stand unlit on the surface: four projects and one that
@@ -60,7 +60,7 @@ without touching the mesh.
 
 ### Live and looked after
 
-**☕ [Kohi by Ifuku](https://www.kohibyifuku.co.za)** - a coffee shop, micro-gallery and jazz
+**[Kohi by Ifuku](https://www.kohibyifuku.co.za)** - a coffee shop, micro-gallery and jazz
 kissa at 44 Stanley in Johannesburg. Menu, hours and directions, built to load instantly on a
 phone in the queue. Still mine to maintain.
 `HTML · CSS · JS`
@@ -69,7 +69,7 @@ phone in the queue. Still mine to maintain.
 
 ### Built, measured, stopped
 
-**🔦 Lumen** - a site system for wedding photographers. One codebase, one config file per
+**Lumen** - a site system for wedding photographers. One codebase, one config file per
 client, and a location page per town generated from an array, so a new client site went live in
 an afternoon instead of a fortnight. Roughly 90 approaches to photographers, nine to venues, no closes.
 The build was never the problem. I was selling to people spending their own money on something
@@ -83,21 +83,21 @@ before. [The write-up](https://williammcilleron.netlify.app/writing/i-filtered-f
 
 Free to use, each with a live demo.
 
-**✍️ [Dev Blog](https://williammcilleron.github.io/dev-blog)** - a blog layout built around a
+**[Dev Blog](https://williammcilleron.github.io/dev-blog)** - a blog layout built around a
 measured 66-character reading column. No infinite scroll.
 [code](https://github.com/WilliamMcIlleron/dev-blog)
 
-**📸 [Snapfolio](https://williammcilleron.github.io/snapfolio/)** - a single-page portfolio for
+**[Snapfolio](https://williammcilleron.github.io/snapfolio/)** - a single-page portfolio for
 portrait and creative photographers. Near-white, black type, colour only in the photographs.
 [code](https://github.com/WilliamMcIlleron/snapfolio)
 
-**🧘 [ZenSlide](https://williammcilleron.github.io/zenslide/)** - a landing page for yoga and
+**[ZenSlide](https://williammcilleron.github.io/zenslide/)** - a landing page for yoga and
 wellness studios. Warm stone and sage.
 [code](https://github.com/WilliamMcIlleron/zenslide)
 
 ---
 
-### 🛠️ Tech
+### Tech
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -113,15 +113,15 @@ wellness studios. Warm stone and sage.
 
 ---
 
-### 🧗 Off the keyboard
+### Off the keyboard
 
 I climb. It is the only hobby I have found that punishes rushing as reliably as production
 does: you can force a move and get away with it exactly once.
 
 ---
 
-### 📬 Say hello
+### Say hello
 
-- ✉️ [williamjonahmci@gmail.com](mailto:williamjonahmci@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/williammcilleron)
-- 📸 [Instagram](https://instagram.com/williamwebdev)
+- [williamjonahmci@gmail.com](mailto:williamjonahmci@gmail.com)
+- [LinkedIn](https://linkedin.com/in/williammcilleron)
+- [Instagram](https://instagram.com/williamwebdev)
