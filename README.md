@@ -25,8 +25,7 @@ reporting and takedown. Card payments run on Paystack subaccounts with a server-
 item's price settles straight into the seller's own bank account and only the service fee
 reaches the platform, tamper-proof because the browser never sets the amount, it only resumes a
 transaction the server already initialised. Every table is row-level-security locked to its
-owner. Live since 29 August 2026: residents can list, browse, message and make offers. Card
-payments are the one piece not live yet, still running on a test Paystack key.
+owner. Live since 29 August 2026.
 
 `Supabase · Postgres RLS · Paystack · Cloudflare Pages`
 
