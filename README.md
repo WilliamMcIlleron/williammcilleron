@@ -9,6 +9,26 @@
 
 ### What I would show you first
 
+**🏊 [MVS Global Pools](https://mvsglobalpools.co.za)** - a pool company in Greenstone,
+Johannesburg, profiled by a national outlet in February 2026. Anyone who read the profile and
+went looking found a Facebook page, because there was no website and no domain. That gap was
+the whole pitch. One page, built around 22 photographs they supplied, with no price list since
+every pool is a different quote. It started as a cold pitch nobody asked for and is now a
+paying client on a monthly, so the hosting, DNS, email routing and any changes are mine to run.
+
+`HTML · CSS · JS · Cloudflare Pages`
+
+**🏘️ [Silver Lakes Marketplace](https://silverlakesmarketplace.co.za)** - a resident-to-resident
+marketplace for a Johannesburg gated estate, built with a co-founder. Auth, listings, offers,
+live in-app messaging, wishlists, seller ratings, and an admin panel for category moderation,
+reporting and takedown. Card payments run on Paystack subaccounts with a server-side split: an
+item's price settles straight into the seller's own bank account and only the service fee
+reaches the platform, tamper-proof because the browser never sets the amount, it only resumes a
+transaction the server already initialised. Every table is row-level-security locked to its
+owner. Live since 29 August 2026. Still pre-launch: no real transactions have run yet.
+
+`Supabase · Postgres RLS · Paystack · Cloudflare Pages`
+
 **📄 [Faircopy](https://faircopy-phi.vercel.app/demo)** - paste a client's messy brief and get
 back a proposal you can edit, save and export. Handed a brief with no budget, no scope and no
 deadline, it opens with the three questions it needs answered and marks itself provisional,
