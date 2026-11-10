@@ -124,4 +124,4 @@ does: you can force a move and get away with it exactly once.
 
 - [williamjonahmci@gmail.com](mailto:williamjonahmci@gmail.com)
 - [LinkedIn](https://linkedin.com/in/williammcilleron)
-- [Instagram](https://instagram.com/williamwebdev)
+- [Instagram](https://instagram.com/will.builds.things)
