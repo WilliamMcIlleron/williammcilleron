@@ -2,7 +2,7 @@
 <h3 align="center">I build the systems behind the things you use — and keep them running</h3>
 
 <p align="center">
-  Johannesburg · <a href="https://williammcilleron.netlify.app">williammcilleron.netlify.app</a>
+  Johannesburg · <a href="https://williammcilleron.com">williammcilleron.com</a>
 </p>
 
 ---
@@ -74,7 +74,7 @@ client, and a location page per town generated from an array, so a new client si
 an afternoon instead of a fortnight. Roughly 90 approaches to photographers, nine to venues, no closes.
 The build was never the problem. I was selling to people spending their own money on something
 they had already decided they could do without, which is the same mistake I had made twice
-before. [The write-up](https://williammcilleron.netlify.app/writing/i-filtered-for-bad-websites/).
+before. [The write-up](https://williammcilleron.com/writing/i-filtered-for-bad-websites/).
 `Astro · Tailwind · Cloudflare Pages`
 
 ---
@@ -122,6 +122,6 @@ does: you can force a move and get away with it exactly once.
 
 ### Say hello
 
-- [williamjonahmci@gmail.com](mailto:williamjonahmci@gmail.com)
+- [william@williammcilleron.com](mailto:william@williammcilleron.com)
 - [LinkedIn](https://linkedin.com/in/williammcilleron)
 - [Instagram](https://instagram.com/will.builds.things)
